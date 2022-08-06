@@ -7,6 +7,7 @@ import App from './App';
 import { ChainId, ThirdwebProvider } from '@thirdweb-dev/react';
 
 // This is the chainId your dApp will work on.
+// 4 = Rinkeby
 const activeChainId = ChainId.Rinkeby;
 
 // Wrap your app with the thirdweb provider
